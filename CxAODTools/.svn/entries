@@ -1,0 +1,40 @@
+10
+
+dir
+663840
+svn+ssh://svn.cern.ch/reps/atlasoff/PhysicsAnalysis/HiggsPhys/Run2/Hbb/CxAODFramework/CxAODTools/trunk
+svn+ssh://svn.cern.ch/reps/atlasoff
+
+
+
+2015-04-22T16:12:37.502399Z
+662328
+dbuesche
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4525493e-7705-40b1-a816-d608a930855b
+
+CxAODTools
+dir
+
+Root
+dir
+
+cmt
+dir
+
+data
+dir
+
